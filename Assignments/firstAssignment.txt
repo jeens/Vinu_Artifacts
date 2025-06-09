@@ -6,7 +6,7 @@ Prerequisite:
 	4. Open Terminal in VSCode (Ctrl+Shift+`) and run the file as node hello.js and see if it prints the message "Hello World"	
 
 ----------------------------------------------------------------------------------
-✅ Part 1: Data Types
+Part 1: Data Types
 Declare variables for each of the following types:
 
 String
